@@ -18,7 +18,7 @@ public class TestBase {
         HashMap<String, Object> ltOptions = new HashMap<String, Object>();
         ltOptions.put("user", "akshithrao19");
         ltOptions.put("accessKey", "QKe4LBKo3l5ncqj0zmoiPe9d9cVr4vlYwu0woGBPPgcYuYetGX");
-        ltOptions.put("build", "Selenium 4");
+        ltOptions.put("build", "LambdaTestCertification_Akshith");
         ltOptions.put("name", this.getClass().getName());
         ltOptions.put("platformName", "Windows 10");
         ltOptions.put("seCdp", true);
